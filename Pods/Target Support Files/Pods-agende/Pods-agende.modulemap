@@ -1,0 +1,6 @@
+framework module Pods_agende {
+  umbrella header "Pods-agende-umbrella.h"
+
+  export *
+  module * { export * }
+}
